@@ -18,6 +18,10 @@ soup=BeautifulSoup(html,"lxml")#需要传递2个参数
 r=soup.find_all("a",class_="fleft")
 book_list=soup.find_all("li",class_="media")
 
+
+
+
+#pring(book_list)
 for book in book_list:
     title=book.find("a",class_="fleft").text
     author=book.find("p",class_="subject-abstract").text.strip()
