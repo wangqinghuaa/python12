@@ -1,0 +1,19 @@
+test_add__one_1 (python0108.math_method.TestMathMethod) ... FAIL
+test_add__one_2 (python0108.math_method.TestMathMethod) ... ok
+test_add__one_3 (python0108.math_method.TestMathMethod) ... ok
+test_add__one_4 (python0108.math_method.TestMathMethof) ... ok
+test_add__one_5 (python0108.math_method.TestMathMethof) ... ok
+test_add__one_6 (python0108.math_method.TestMathMethof) ... ok
+
+======================================================================
+FAIL: test_add__one_1 (python0108.math_method.TestMathMethod)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\tmp\python11\python0108\math_method.py", line 33, in test_add__one_1
+    self.assertEqual(3, res,msg="两个1相加出错了") #期望值-结果值
+AssertionError: 3 != 2 : 两个1相加出错了
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.001s
+
+FAILED (failures=1)

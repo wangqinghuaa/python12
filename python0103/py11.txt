@@ -1,0 +1,11 @@
+2022-01-16 20:50:59,637-ERROR-my_log.py-python-日志信息:stone 今天有点萌萌达
+2022-01-16 20:57:50,486-ERROR-my_log.py-python-日志信息:stone 今天有点萌萌达
+2022-01-16 20:57:50,488-ERROR-my_log.py-python-日志信息:stone 今天有点萌萌达
+2022-01-16 20:57:50,488-ERROR-my_log.py-python-日志信息:stone 今天有点萌萌达
+2022-01-16 20:57:58,039-ERROR-my_log.py-python-日志信息:stone 今天有点萌萌达
+2022-01-16 20:57:58,040-ERROR-my_log.py-python-日志信息:stone 今天有点萌萌达2
+2022-01-16 20:57:58,040-ERROR-my_log.py-python-日志信息:stone 今天有点萌萌达2
+2022-01-16 21:16:29,844-ERROR-my_log.py-python-日志信息:stone 今天有点萌萌达
+2022-01-16 21:16:29,845-ERROR-my_log.py-python-日志信息:stone 今天有点萌萌达2
+2022-01-16 21:20:49,678-DEBUG-my_log.py-python-日志信息:可行吗
+2022-01-16 21:20:49,678-INFO-my_log.py-python-日志信息:可行
