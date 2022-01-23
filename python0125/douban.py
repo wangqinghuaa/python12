@@ -14,7 +14,7 @@ myheader={"User-Agent":"Chrome/96.0.4664.45"}
 result=requests.get(url,headers=myheader)
 html=result.text
 
-soup=BeautifulSoup(html,"lxml")#需要传递2个参数
+soup=BeautifulSoup(html,"lxml")#需要传递2个参数,
 r=soup.find_all("a",class_="fleft")
 book_list=soup.find_all("li",class_="media")
 
