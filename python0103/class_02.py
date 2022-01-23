@@ -14,7 +14,7 @@
 #     def __init__(self,name,age=18):
 #         self.name=name
 #         self.age=age
-#         self.height=180 #写死，初始化函数没有返回值
+#         self.height=180 #写死，初始化函数没有返回值,
 #
 #     #方法/函数
 #     def function_test(self,*args):
