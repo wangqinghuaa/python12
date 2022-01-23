@@ -53,7 +53,7 @@ def list_add(interval=5,timeout=30):  #查询订单接口
         count+=1
     print("---查询操作结束---")
 
-#查询接口注意事项
+#查询接口注意事项，
 #使用什么查询 id
 #频率 interval
 #查多久认为超时 timeout
