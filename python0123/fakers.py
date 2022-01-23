@@ -11,7 +11,7 @@ from faker import Factory
 fake = Faker(locale="en_US")
 # print(fake.name())
 
-# print(dir(fake))
+
 # print(fake.address())
 # print(fake.phone_number())
 # print(dir(fake))
