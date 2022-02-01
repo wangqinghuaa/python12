@@ -1,14 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time     :2022-01-01 20:19
+# @Time     :2022-01-28 13:52
 # @Author   :wangqinghua
 # @Email    : 867075698@qq.com
-# @File     : class_for.py
+# @File     : __init__.py.py
 # @Software : PyCharm
-
-
-
-
-
-
-
